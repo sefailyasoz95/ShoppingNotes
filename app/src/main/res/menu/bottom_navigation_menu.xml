@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_myLists"
+        android:icon="@drawable/all_listnames_image"
+        android:title="Listelerim" />
+    <item
+        android:id="@+id/action_addList"
+        android:icon="@drawable/add_list_image"
+        android:title="Liste Ekle" />
+</menu>
